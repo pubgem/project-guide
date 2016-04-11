@@ -36,6 +36,7 @@ $(OUT_DIR)/design/$(PROJECT_NAME)_Entity_Relationship_Diagram.pdf \
 $(OUT_DIR)/design/$(PROJECT_NAME)_Process_Map.pdf \
 $(OUT_DIR)/design/$(PROJECT_NAME)_Site_Map.pdf \
 $(OUT_DIR)/design/$(PROJECT_NAME)_System_Map.pdf \
+$(OUT_DIR)/design/$(PROJECT_NAME)_Architecture.pdf \
 $(OUT_DIR)/design/$(PROJECT_NAME)_Wireframes.pdf
 endef
 
