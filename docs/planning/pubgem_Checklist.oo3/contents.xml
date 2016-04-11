@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE outline PUBLIC "-//omnigroup.com//DTD OUTLINE 3.0//EN" "http://www.omnigroup.com/namespace/OmniOutliner/xmloutline-v3.dtd">
+<outline xmlns="http://www.omnigroup.com/namespace/OmniOutliner/v3">
+  <style-attribute-registry>
+    <style-attribute version="0" key="font-family" group="font" name="family" class="string">Helvetica</style-attribute>
+    <style-attribute version="1" key="font-fill" group="font" name="fill color" class="color">
+      <color w="0"/>
+    </style-attribute>
+    <style-attribute version="0" key="font-size" group="font" name="size" class="number" integral="0" min="1" max="65536">12</style-attribute>
+    <style-attribute version="0" key="font-weight" group="font" name="weight" class="number" integral="1" min="1" max="14">5</style-attribute>
+    <style-attribute version="0" key="item-to-note-space(com.omnigroup.OmniOutliner)" group="row" name="above note padding" class="number" integral="1" min="0" max="1000">0</style-attribute>
+    <style-attribute version="0" key="paragraph-alignment" group="paragraph" name="alignment" class="enum">
+      <enum-name-table default-value="4">
+        <enum-name-table-element value="0" name="left"/>
+        <enum-name-table-element value="1" name="right"/>
+        <enum-name-table-element value="2" name="center"/>
+        <enum-name-table-element value="3" name="justified"/>
+        <enum-name-table-element value="4" name="natural"/>
+      </enum-name-table>
+    </style-attribute>
+    <style-attribute version="0" key="paragraph-base-writing-direction" group="paragraph" name="writing direction" class="enum">
+      <enum-name-table default-value="-1">
+        <enum-name-table-element value="-1" name="natural"/>
+        <enum-name-table-element value="0" name="left-to-right"/>
+        <enum-name-table-element value="1" name="right-to-left"/>
+      </enum-name-table>
+    </style-attribute>
+    <style-attribute version="0" key="paragraph-line-height-multiple" group="paragraph" name="line height multiple" class="number" integral="0" min="0" max="1000">0</style-attribute>
+    <style-attribute version="0" key="text-background-color" group="text" name="background color" class="color">
+      <color w="0" a="0"/>
+    </style-attribute>
+  </style-attribute-registry>
+  <named-styles>
+    <named-style id="eUsXLp0Pv1g" name="Heading 1" display-order="0">
+      <style>
+        <value key="font-family">Helvetica Neue</value>
+        <value key="font-fill">
+          <color r="0.196247" g="0.196247" b="0.196247"/>
+        </value>
+        <value key="font-size">30</value>
+        <value key="font-weight">3</value>
+      </style>
+    </named-style>
+    <named-style id="d4-frBYwy2X" name="Heading 2" display-order="1">
+      <style>
+        <value key="font-family">Helvetica Neue</value>
+        <value key="font-fill">
+          <color r="0.196247" g="0.196247" b="0.196247"/>
+        </value>
+        <value key="font-size">18</value>
+      </style>
+    </named-style>
+    <named-style id="kRw332h0q-G" name="Heading 3" display-order="2">
+      <style>
+        <value key="font-family">Helvetica Neue</value>
+        <value key="font-size">13</value>
+        <value key="font-weight">6</value>
+      </style>
+    </named-style>
+    <named-style id="nU7Pax9sHwm" name="Highlight: Yellow" display-order="3">
+      <style>
+        <value key="text-background-color">
+          <color r="1" g="0.733334" b="0" a="0.25"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="m6c_M2fT6yP" name="Highlight: Red" display-order="4">
+      <style>
+        <value key="text-background-color">
+          <color r="0.94902" g="0.376471" b="0.466667" a="0.25"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="auoqZ5xVKeG" name="Highlight: Green" display-order="5">
+      <style>
+        <value key="text-background-color">
+          <color r="0.406736" g="0.736132" b="0.210461" a="0.25"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="hE9mXgl4a8m" name="Purple" display-order="6">
+      <style>
+        <value key="font-fill">
+          <color r="0.588981" g="0.38239" b="0.815403"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="l2kopvXC4ak" name="Blue" display-order="7">
+      <style>
+        <value key="font-fill">
+          <color r="0.227451" g="0.556863" b="0.929412"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="f7F2187eZ56" name="Bondi" display-order="8">
+      <style>
+        <value key="font-fill">
+          <color r="0" g="0.749538" b="0.75371"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="kJhkVDl2Xsd" name="Green" display-order="9">
+      <style>
+        <value key="font-fill">
+          <color r="0.406736" g="0.736132" b="0.210461"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="inNRQJ-da6E" name="Yellow" display-order="10">
+      <style>
+        <value key="font-fill">
+          <color r="1" g="0.733334" b="0"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="nAm7imW-teW" name="Orange" display-order="11">
+      <style>
+        <value key="font-fill">
+          <color r="1" g="0.568627" b="0.301961"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="jtC-ndQ7Pcw" name="Red" display-order="12">
+      <style>
+        <value key="font-fill">
+          <color r="0.94902" g="0.376471" b="0.466667"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="dI8s4BxgdIs" name="Graphite" display-order="13">
+      <style>
+        <value key="font-fill">
+          <color r="0.419608" g="0.486275" b="0.647059"/>
+        </value>
+      </style>
+    </named-style>
+  </named-styles>
+  <settings>
+    <base-style>
+      <style>
+        <value key="font-family">Helvetica Neue</value>
+        <value key="font-size">13</value>
+        <value key="item-to-note-space(com.omnigroup.OmniOutliner)">4</value>
+        <value key="paragraph-base-writing-direction">left-to-right</value>
+        <value key="paragraph-line-height-multiple">1.1</value>
+      </style>
+    </base-style>
+    <print-info>
+      <print-info-key name="OOScaleDocumentToFitPageWidth" type="boolean">true</print-info-key>
+    </print-info>
+    <auto-generate-level-styles>no</auto-generate-level-styles>
+  </settings>
+  <editor content-size="{454, 699}" outline-title-display-mode="always" column-titles-display-mode="auto" status-visible="no" hide-attachment-tags="yes" is-spellchecking-enabled="yes">
+    <drawer display="sections" width="185" palette-height="476"/>
+    <note-split-view height="141"/>
+    <selected-rows ids="msc9w0btROz"/>
+    <selected-columns ids="jFqHUGd_Dg1"/>
+    <selected-characters range="{19, 0}"/>
+  </editor>
+  <outline-title>
+    <text>
+      <p>
+        <run>
+          <style>
+            <value key="font-size">12</value>
+            <value key="paragraph-alignment">center</value>
+          </style>
+          <lit><cell variable="OODocumentFilenameVariableIdentifier"/></lit>
+        </run>
+      </p>
+    </text>
+  </outline-title>
+  <columns>
+    <column id="dTpN3JwYpBn" type="text" width="18" minimum-width="18" maximum-width="18" text-export-width="1" is-note-column="yes">
+      <style>
+        <value key="font-fill">
+          <color r="0.33" g="0.33" b="0.33"/>
+        </value>
+        <value key="font-size">11</value>
+      </style>
+      <title>
+        <text>
+          <p/>
+        </text>
+      </title>
+    </column>
+    <column id="jFqHUGd_Dg1" type="text" width="325" minimum-width="13" maximum-width="1000000" text-export-width="72" is-outline-column="yes">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Topic</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id="fcZAtu_Szbn" type="date" width="107" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <style>
+        <value key="paragraph-alignment">center</value>
+      </style>
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Completed on</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="date" allow-natural-language="yes" date="short" time="none">short-date-format</formatter>
+    </column>
+  </columns>
+  <root>
+    <style>
+      <value key="font-weight">6</value>
+    </style>
+    <item id="msc9w0btROz" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Project management space</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>Instantiate a space for containing project management work.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="eSwr6iCDa2h">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>management version control</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Create a version controlled repository for project management documentation.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="j0Us_gKY1Dq">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>scaffold project-management skel</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Populate the management space with the templates that generally apply to all Agile projects.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+      </children>
+    </item>
+    <item id="f09gFHMc-gq" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Agile Bootstrap</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>Each of these must be reviewed to ensure the points are relevant to the current project.  The documents are interrelated, so a change to one document likely precipitates to the others.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="ogrz8Gxt0hF">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Checklist</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Once the Checklist (i.e. this document) is reviewed, it may be followed through the rest of the steps.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="mdc36Oqedbf">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Agile Management Plan</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>This plan collects all of the processes and approaches that will be used in the execution of this project.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="cAGb0n1bi5V">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Team Resources Diagram</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>The technical resources available to the team are laid out in this diagram.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="dzySGBu2_yt">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Project Guide</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>The master document is the Project Guide.  This document links to all of the other documents that will be used to complete the project.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="lSQIZ5lvVfK">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Timeline</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Review the Timeline to ensure it includes all of the anticipated tasks.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+      </children>
+    </item>
+    <item id="n9Cr4BPjkMA" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Charter</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>The Charter officially instantiates the project.  This document embodies the vision and real-world constraints that act upon the project.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="ouTNdxOGaeX">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Background</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Whatever information is needed to understand the context of the project should be included in the background section.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="nrBu9akuHIx">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Roadmap</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>The roadmap articulates the vision and the general process that will lead us towards that vision.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="dIYUXSsNBBt">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Stakeholders</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>The stakeholders are the internal and external people and organizations that have an interest in this project.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="iB0Qb9C4da4">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Time</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Time constraints will impact the project.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="hfl8YGSgaeA">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Budget</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>What is the available budget?  Are there budgetary considerations?</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="dCheBMH4eS7">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Team</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Who will work on this project?</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+      </children>
+    </item>
+    <item id="fJfqDTy7dab" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Scope</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>The scope of the project is determined by the stories that are used to describe the finished product.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="lVRRqUD_8pe">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Personae</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>The users of the system are analyzed to create Personae.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="eJzKTcY5luL">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Organization View</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>The Organization View is the first analysis document that maps out the relationships between the stakeholders.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="gfupv7XRxR5">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Deliverables</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>The deliverables are artifacts that are going to be used directly by the customer.  These are things that must be created.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="hvnpPJL0nRN">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Stories</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Collect the stories that describe how Personae interact with the system.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="a_37LNwvVgA">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Story Map</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>Organize stories by theme to create a release plan.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="fyNYUtv0wp3">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Timeline</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>With the story map in hand, update the timeline to mention the product releases.</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+      </children>
+    </item>
+    <item id="c3uFw9cnNpC" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Team Resources</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>The team resources are described in the Team Resources Diagram.  At this stage in the checklist, it is time to ensure all of these resources actually exist.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="pl9MuYfXsz1">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>wiki for file and document sharing</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="jhP5SQcm43b">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>web space for agile documents</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="fzQyvdQj1Kn">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>agile board and story backlog</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="bxi6EZcARFj">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>web access to source code</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="g63T2NCkcN0">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>web space for API documentation</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="mbrus0gSg4e">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>development server</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="osg3xmUk0TN">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>staging server</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="diG0XkV-uOw">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>production server</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="hyEUQYUdiEe">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>continuous integration system</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="olOiTGNZCQn">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>code review system</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="fsFVLyW_sT0">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>team IRC chatroom</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="jr6E9xzgode">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>blog for project updates</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="gnlyvu9cjLh">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>calendar for team</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="nK0i5tL_3lr" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Design</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>The product is designed using a series of artifacts that serve to communicate among team members.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="hEyWKEqGhoT">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Wireframes</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="kcEfgchoYXy">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Site Map</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="hIFTHAbkW5_">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Entity Relationship Diagram</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="n4N7EsDmCRE">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Process Map</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="h1TjsyXuCyQ">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>System Map</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="a32W41rsgO8" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Specifications</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>The product design is described in fairly precise terms so that implementation and development becomes possible.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="kJKQE7tdz38">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Data Model Specification</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="i8DHuSflkt-">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Functional Specification</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="dRNVA1KtYsZ">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Technical Specification</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="kAgj6Ta8w9w" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Documentation</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>After development is complete, several documents are required for the operation of the product.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="b9y68Z2o9P_">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>IT Ops Installation</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="gjQDBC3fw3F">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>IT Ops Upgrading</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="hN4lsmorg8Z">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Admin Usage Guide</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="d_kkUp0QZPN">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>User Usage Guide</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="mY6oioUy-fW" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Compliance</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>Some projects seek various certifications for their completed products.  In order to meet compliance requirements, there are often specific documents that must be produced to demonstrate certain product criteria.</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+      <children>
+        <item id="eQ5QeCoCWgT">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Risk</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <note expanded="yes">
+            <text>
+              <p>
+                <run>
+                  <lit>What events may occur that could impact the project?</lit>
+                </run>
+              </p>
+            </text>
+          </note>
+        </item>
+        <item id="n6CT7pEnyq9">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Security</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="lYJgQCHyLU5">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Hazards</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="dZBNGHlnKei">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Mitigations</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+  </root>
+</outline>

@@ -1,0 +1,34 @@
+---
+title: "pubgem Validation Protocol"
+author: "Ian Dennis Miller"
+date: "Today"
+back: "../pubgem_Project_Guide.html"
+---
+
+Once the system has been integrated and configured, the validation protocol can be used to assess the functioning of the system.  The Validation Protocol presents a sequence of operations based upon the processes and flowcharts that were mapped during design.  The basic approach to validation is to perform an action and then ensure the outcome matches expectations.
+
+# The Unnamed Process
+
+## This is the name of a step
+
+### Actions
+
+0. first do this thing
+1. and then do this thing
+
+### Expected Results
+
+0. this is the first indication that it's working
+1. this is another indication that it's working
+
+## This is the name of a step
+
+### Actions
+
+0. first do this thing
+1. and then do this thing
+
+### Expected Results
+
+0. this is the first indication that it's working
+1. this is another indication that it's working
