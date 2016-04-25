@@ -10,14 +10,15 @@ This Project Guide offers an overview of all the documentation and resources rel
 # Communication
 
 - [Project Website](http://project.pubgem.com)
-- [Team Chat Room: IRC #pubgem on freenode.net](http://webchat.freenode.net/?channels=%23pubgem&uio=d4)
+- [Project Wiki](https://github.com/pubgem/project-guide/wiki)
+- [Discussion List](https://groups.google.com/forum/#!forum/pubgem/new)
+- [Chat Room: IRC #pubgem on freenode.net](http://webchat.freenode.net/?channels=%23pubgem&uio=d4)
 
 <!--
 - [Create an Issue](unimplemented.html)
 - [Team Video Conference](unimplemented.html)
 - [Team Calendar](unimplemented.html)
 - [Project Blog](unimplemented.html)
-- [Project Wiki](unimplemented.html)
 -->
 
 # Development

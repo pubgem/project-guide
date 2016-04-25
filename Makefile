@@ -233,7 +233,8 @@ $(SUBDIR_TARGETS):
 clean:
 	rm -rf output
 
+include ~/.pubgem-credentials
 rsync:
-	rsync -a --delete output/ idmiller_project-pubgem@ssh.phx.nearlyfreespeech.net:
+	rsync -a --delete output/ ${USERNAME}@${HOSTNAME}:
 
 .PHONY: all project clean
