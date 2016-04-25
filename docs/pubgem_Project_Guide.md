@@ -11,7 +11,7 @@ This Project Guide offers an overview of all the documentation and resources rel
 
 - [Project Website](http://project.pubgem.com)
 - [Project Wiki](https://github.com/pubgem/project-guide/wiki)
-- [Discussion List](https://groups.google.com/forum/#!forum/pubgem/new)
+- [Discussion List](https://groups.google.com/forum/#!forum/pubgem)
 - [Chat Room: IRC #pubgem on freenode.net](http://webchat.freenode.net/?channels=%23pubgem&uio=d4)
 
 <!--
