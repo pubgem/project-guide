@@ -58,7 +58,9 @@ Projects are integrated into the production environment for release to users. Th
 
 A Model-View-Controller architecture is designed in terms of these documents.  The ERD corresponds to the **Model**, the Wireframes correspond to the **View**, and the Processes correspond to the **Controller**.
 
-- [Design Document](design/pubgem_Design.html) [[pdf]](design/pubgem_Design.pdf) [[docx]](design/pubgem_Design.docx) [[Presentation]](design/pubgem_Design_Presentation.pdf)
+<!-- - [Design Document](design/pubgem_Design.html) [[pdf]](design/pubgem_Design.pdf) [[docx]](design/pubgem_Design.docx) [[Presentation]](design/pubgem_Design_Presentation.pdf)
+-->
+
 - [Architecture](design/pubgem_Architecture.pdf) [[zip]](design/pubgem_Architecture.zip)
 - [Entity Relationship Diagram](design/pubgem_Entity_Relationship_Diagram.pdf) [[zip]](design/pubgem_Entity_Relationship_Diagram.zip)
 - [Wireframes](design/pubgem_Wireframes.pdf) [[zip]](design/pubgem_Wireframes.zip)

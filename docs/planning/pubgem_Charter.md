@@ -107,6 +107,8 @@ This project has the following budgetary resources and constraints:
 
 Minimum annual operating expense is approximately $75 USD.
 
+## Working space
+
 # Team
 
 The successful completion of this project will rely upon the following team members for their particular skills.
