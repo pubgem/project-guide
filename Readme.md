@@ -1,5 +1,3 @@
----
-title: "pubgem project"
----
+# pubgem project
 
 http://project.pubgem.com

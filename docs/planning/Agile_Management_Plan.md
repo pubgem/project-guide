@@ -122,10 +122,10 @@ Specifications are derived from design documentation. As with design, these spec
 - Each time code is committed to the develop or master branch, the Continuous Integration server executes Integration Tests in addition to Unit Tests.
 - Tests are assigned numbers, which are stored in the test code comment header.
 
-# Reviews
+<!-- # Reviews
 
 TODO; need more experience with code reviews before writing this section.
-
+ -->
 # Releases
 
 - Each release is tagged with a version number.
@@ -156,7 +156,7 @@ Projects are integrated into the production environment for release to users. Th
 0. **Installation** - the process for setting up an environment and installing the project inside it.
 0. **Upgrading** - the process for getting the latest source code and applying the update.
 
-# Training
+<!-- # Training
 
 - A guide document is created for each Persona that will use the project.
 - A site visit is scheduled to describe the work flows to end users and assess understanding.
@@ -195,3 +195,4 @@ Projects are integrated into the production environment for release to users. Th
 # Security
 
 TODO; need to observe a security audit before writing this section.
+ -->

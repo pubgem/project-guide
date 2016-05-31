@@ -1,35 +1,38 @@
 ---
 title: "pubgem Project Guide"
 author: "Ian Dennis Miller"
-date: "2016-04-11"
 classoption: "aspectratio=169"
 ---
 
 This Project Guide offers an overview of all the documentation and resources related to this project.
 
+This website is for developers.  The regular pubgem website is [http://www.pubgem.com](http://www.pubgem.com)
+
 # Communication
 
-- [Project Website](http://project.pubgem.com)
-- [Project Wiki](https://github.com/pubgem/project-guide/wiki)
-- [Discussion List](https://groups.google.com/forum/#!forum/pubgem)
-- [Chat Room: IRC #pubgem on freenode.net](http://webchat.freenode.net/?channels=%23pubgem&uio=d4)
+- [Website](http://project.pubgem.com) - [http://project.pubgem.com](http://project.pubgem.com)
+- [Wiki](https://github.com/pubgem/project-guide/wiki) - GitHub
+- [Chat](http://webchat.freenode.net/?channels=%23pubgem&uio=d4) - IRC #pubgem on freenode.net - [Slack](https://pubgem.slack.com)
+- [Mailing List](https://groups.google.com/forum/#!forum/pubgem) - Google Groups
+- [Video Chat](https://hangouts.google.com/call/vdmfia7cgjcbvcvn7qbtdzqlvye) - Google Hangouts
 
 <!--
 - [Create an Issue](unimplemented.html)
-- [Team Video Conference](unimplemented.html)
 - [Team Calendar](unimplemented.html)
 - [Project Blog](unimplemented.html)
 -->
 
 # Development
 
-There are a number of project resources that are used on a day-to-day basis in the normal course of doing work upon the project.
+- [Kanban Board](https://huboard.com/pubgem) - HuBoard
+- [Source Code Repository](https://github.com/pubgem) - GitHub
+- [Continuous Integration](https://travis-ci.org/pubgem) - Travis CI
 
-- [Agile Board](https://app.asana.com/0/110660601464965/list)
-- [Source Code Repository](https://github.com/pubgem)
+# Projects
+
+- [rss-aggregator](https://huboard.com/pubgem/rss-aggregator) [repo](https://github.com/pubgem/rss-aggregator) [testing](https://travis-ci.org/pubgem/rss-aggregator) <div style="display: inline-block; background: url('https://travis-ci.org/pubgem/rss-aggregator.png?branch=master'); height: 20px; width: 100px; background-repeat-x: no-repeat;"></div>
 
 <!--
-- [Continuous Integration](unimplemented.html)
 - [Code Reviews](unimplemented.html)
 - [API Documentation](unimplemented.html)
 -->
@@ -56,7 +59,7 @@ Projects are integrated into the production environment for release to users. Th
 
 # Design
 
-A Model-View-Controller architecture is designed in terms of these documents.  The ERD corresponds to the **Model**, the Wireframes correspond to the **View**, and the Processes correspond to the **Controller**.
+A Model-View-Controller architecture is designed in terms of these documents.  The ERD corresponds to the **Model**, the Wireframes correspond to the **View**, and the Flowcharts correspond to the **Controller**.
 
 <!-- - [Design Document](design/pubgem_Design.html) [[pdf]](design/pubgem_Design.pdf) [[docx]](design/pubgem_Design.docx) [[Presentation]](design/pubgem_Design_Presentation.pdf)
 -->
@@ -64,10 +67,10 @@ A Model-View-Controller architecture is designed in terms of these documents.  T
 - [Architecture](design/pubgem_Architecture.pdf) [[zip]](design/pubgem_Architecture.zip)
 - [Entity Relationship Diagram](design/pubgem_Entity_Relationship_Diagram.pdf) [[zip]](design/pubgem_Entity_Relationship_Diagram.zip)
 - [Wireframes](design/pubgem_Wireframes.pdf) [[zip]](design/pubgem_Wireframes.zip)
-- [System Map](design/pubgem_System_Map.pdf) [[zip]](design/pubgem_System_Map.zip)
-<!--
-- [Process Map](design/pubgem_Process_Map.pdf) [[zip]](design/pubgem_Process_Map.zip)
 - [Flowcharts](design/pubgem_Flowcharts.pdf) [[zip]](design/pubgem_Flowcharts.zip)
+<!--
+- [System Map](design/pubgem_System_Map.pdf) [[zip]](design/pubgem_System_Map.zip)
+- [Process Map](design/pubgem_Process_Map.pdf) [[zip]](design/pubgem_Process_Map.zip)
 - [Site Map](design/pubgem_Site_Map.pdf) [[zip]](design/pubgem_Site_Map.zip)
 -->
 
@@ -100,12 +103,13 @@ When the project must comply with certain standards/criteria, there will be a nu
 
 - [Charter](planning/pubgem_Charter.html) [[pdf]](planning/pubgem_Charter.pdf) [[docx]](planning/pubgem_Charter.docx) [[Presentation]](planning/pubgem_Charter_Presentation.pdf)
 <!--
+- [Budget]()
 - [Organization View](planning/pubgem_Organization_View.pdf) [[zip]](planning/pubgem_Organization_View.zip)
 - [Scope](planning/pubgem_Scope.html) [[pdf]](planning/pubgem_Scope.pdf) [[docx]](planning/pubgem_Scope.docx) [[Presentation]](planning/pubgem_Scope_Presentation.pdf)
 - [Timeline](planning/pubgem_Timeline.pdf) [[zip]](planning/pubgem_Timeline.zip)
 -->
 
-# Agile Management
+# Management
 
 This is an agile project that is controlled according to these documents.
 
@@ -113,7 +117,7 @@ This is an agile project that is controlled according to these documents.
 - [Checklist](planning/pubgem_Checklist.pdf) [[docx]](planning/pubgem_Checklist.docx) [[zip]](planning/pubgem_Checklist.zip)
 - [QMS Manual](planning/QMS_Manual.html) [[pdf]](planning/QMS_Manual.pdf) [[docx]](planning/QMS_Manual.docx)
 -->
-- [Team Resources Diagram](planning/pubgem_Team_Resources_Diagram.pdf) [[zip]](planning/pubgem_Team_Resources_Diagram.zip)
+- [System Resources Diagram](planning/pubgem_Team_Resources_Diagram.pdf) [[zip]](planning/pubgem_Team_Resources_Diagram.zip)
 - [Agile Management Plan](planning/Agile_Management_Plan.html) [[pdf]](planning/Agile_Management_Plan.pdf) [[docx]](planning/Agile_Management_Plan.docx) [[Presentation]](planning/Agile_Management_Plan_Presentation.pdf)
 - [Project Guide](pubgem_Project_Guide.html) [[Presentation]](pubgem_Project_Guide_Presentation.pdf)
 <!--
