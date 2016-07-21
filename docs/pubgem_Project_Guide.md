@@ -10,7 +10,7 @@ This website is for developers.  The regular pubgem website is [http://www.pubge
 
 # Communication
 
-- [Website](http://project.pubgem.com) - [http://project.pubgem.com](http://project.pubgem.com)
+- [Website](http://project.pubgem.org) - [http://project.pubgem.org](http://project.pubgem.org)
 - [Wiki](https://github.com/pubgem/project-guide/wiki) - GitHub
 - [Chat](http://webchat.freenode.net/?channels=%23pubgem&uio=d4) - IRC #pubgem on freenode.net - [Slack](https://pubgem.slack.com)
 - [Mailing List](https://groups.google.com/forum/#!forum/pubgem) - Google Groups

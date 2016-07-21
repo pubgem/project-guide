@@ -1,3 +1,3 @@
 # pubgem project
 
-http://project.pubgem.com
+http://project.pubgem.org

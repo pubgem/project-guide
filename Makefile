@@ -234,6 +234,7 @@ clean:
 	rm -rf output
 
 publish:
+	rm -rf /tmp/project-pubgem-org
 	cd /tmp && git clone git@github.com:pubgem/project-pubgem-org.git
 	cd /tmp/project-pubgem-org && git checkout gh-pages
 	rsync -a --delete --exclude CNAME --exclude .git output/ /tmp/project-pubgem-org/
