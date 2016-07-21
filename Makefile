@@ -233,8 +233,11 @@ $(SUBDIR_TARGETS):
 clean:
 	rm -rf output
 
-include ~/.pubgem-credentials
-rsync:
-	rsync -a --delete output/ ${USERNAME}@${HOSTNAME}:
+publish:
+	cd /tmp && git clone git@github.com:pubgem/project-pubgem-org.git
+	cd /tmp/project-pubgem-org && git checkout gh-pages
+	rsync -a --delete --exclude CNAME --exclude .git output/ /tmp/project-pubgem-org/
+	cd /tmp/project-pubgem-org && git add -A && git commit -am "update" && git push
+	rm -rf /tmp/project-pubgem-org
 
 .PHONY: all project clean

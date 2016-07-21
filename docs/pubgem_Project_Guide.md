@@ -30,7 +30,7 @@ This website is for developers.  The regular pubgem website is [http://www.pubge
 
 # Projects
 
-- [rss-aggregator](https://huboard.com/pubgem/rss-aggregator) [repo](https://github.com/pubgem/rss-aggregator) [testing](https://travis-ci.org/pubgem/rss-aggregator) <div style="display: inline-block; background: url('https://travis-ci.org/pubgem/rss-aggregator.png?branch=master'); height: 20px; width: 100px; background-repeat-x: no-repeat;"></div>
+- [rss-aggregator](https://huboard.com/pubgem/rss-aggregator) - [repo](https://github.com/pubgem/rss-aggregator) - [testing](https://travis-ci.org/pubgem/rss-aggregator) - <div style="display: inline-block; background: url('https://travis-ci.org/pubgem/rss-aggregator.png?branch=master'); height: 20px; width: 100px; background-repeat-x: no-repeat;"></div>
 
 <!--
 - [Code Reviews](unimplemented.html)
